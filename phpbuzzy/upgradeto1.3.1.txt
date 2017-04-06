@@ -1,0 +1,9 @@
+Please check your admin panel dashboard.
+You can see there is a update alert. Please use that.
+
+Changes
+- Added: Amazon S3 CDN Support for Image upload
+- Fixed: Issue with load more button on category pages and homepage.
+
+Why 5mb+ update?
+It because we have update for vendor packages and only amazon sdk packages 3M+
